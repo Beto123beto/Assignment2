@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Paveway-Assignment"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project2"
+	}
+}
